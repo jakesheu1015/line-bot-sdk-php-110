@@ -1,4 +1,6 @@
 <?php
+
+echo "I am Jake"
 // form http://nuuneoi.com/blog/blog.php?read_id=882
 define("LINE_MESSAGING_API_CHANNEL_SECRET", '7aa392003688ea507ca578de50fe0e71');
 define("LINE_MESSAGING_API_CHANNEL_TOKEN", 'N1NMUjSfEo3dbMUoCXdiW/G2+9NiS4dLxAfeRNVuC2TcKRUVAr3ArljrObxxaYwyPugxMx+LJm/ABPvok9Ao8P7vkvdQ34tPuvmMz7Mmt5uKXlakjDh0sZBBJcFOFV77swVk8z9K5akfewheD8yUiQdB04t89/1O/w1cDnyilFU=');
